@@ -1,0 +1,10 @@
+### follow  -- https://basarat.gitbooks.io/typescript/docs/quick/nodejs.html
+
+### setup of typescript
+
+npm install typescript --save-dev
+npm install @types/node --save-dev
+
+### create tsconfig.json file
+
+node ./node_modules/typescript/lib/tsc --init
